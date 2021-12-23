@@ -1,0 +1,1 @@
+document.querySelector("#topics-button").addEventListener("click", () => window.location.href = "index.html#topics");

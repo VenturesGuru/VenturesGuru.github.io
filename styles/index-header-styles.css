@@ -1,0 +1,82 @@
+@font-face {
+    font-family: bold-font;
+    src: url(../fonts/logo-main-fonts/Lato-Black.ttf);
+}
+@font-face {
+    font-family: light-font;
+    src: url(../fonts/logo-main-fonts/Lato-Light.ttf);
+}
+
+#main-header{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 66vh;
+    background-color: var(--guru-color);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#header-content{
+    color: #fdfdff;
+    width: 72%;
+    max-width: 1200px;
+}
+#header-content h6{
+    font-family: light-font, sans-serif;
+    font-size: 1em;
+    margin: 1em 0;
+}
+#header-content h1{
+    font-size: 2.7em;
+    margin: 0 0 1em;
+}
+#header-content .thin-header{
+    letter-spacing: 1px;
+    font-family: light-font, sans-serif;
+    display: block;
+    white-space: nowrap;
+}
+#header-content .bold-header{
+    font-family: bold-font, sans-serif;
+    display: block;
+    white-space: nowrap;
+}
+#header-content p{
+    font-family: light-font;
+    font-size: 0.9rem;
+    line-height: 138%;
+    width: 80%;
+    margin-bottom: 2em;
+}
+#header-content button {
+    border: none;
+    border-radius: 5px;
+    height: 44px;
+    width: 142px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* padding: 12px 48px; */
+    cursor: pointer;
+    background-color: #E7E9ED;
+    color: black;
+    transition: background-color 0.3s ease;
+    transition: box-shadow 0.3s ease;
+}
+#header-content button:hover{
+    background-color: #ffffff;
+    box-shadow: 0 0 15px 3px #2373d4;
+}
+#header-content button span{
+    position: relative;
+    bottom: 1px;
+    width: 1px;
+    overflow-x: hidden;
+    transition: width 0.3s ease;
+}
+#header-content button:hover > span{
+    font-size: 1.3em;
+    width: 10px;
+}

@@ -1,0 +1,62 @@
+[
+    {
+        "image" : "images/placeholder-image.jpg",
+        "date" :"01/01/2000",
+        "title" : "how to win freinds and influence people",
+        "tags": ["businessVentures", "all"]
+    },
+    {
+        "image" :"images/placeholder-image.jpg",
+        "date" : "02/02/2001",
+        "title" : "why the stock market is important to us",
+        "tags" :["businessVentures", "all"]
+    },
+    {
+        "image" :"images/placeholder-image.jpg",
+        "date" : "01/01/2000",
+        "title" : "Hoe too cpell your essai correctlee",
+        "tags" :["businessVentures", "all"]
+    },
+    {
+        "image" :"images/placeholder-image.jpg",
+        "date" :"11/11/2011",
+        "title" :"the rise of inflation and how to protect your money",
+        "tags" :["personalFinance", "all"]
+    },
+    {
+        "image" :"images/placeholder-image.jpg",
+        "date" :"11/22/3344",
+        "title" :"Why Brandon is your favorite household name",
+        "tags" :["personalFinance", "all"]
+    },
+    {
+        "image" :"images/placeholder-image.jpg",
+        "date" :"00/00/0000", 
+        "title" :"War does not determine who is right — only who is left",
+        "tags" :["investments", "all"]
+    },
+    {
+        "image" :"images/placeholder-image.jpg",
+        "date" :"01/01/2000",
+        "title" :"If I wanted to kill myself I would climb your ego and jump to your IQ",
+        "tags":["investments", "all"]
+    },
+    {
+        "image":"images/placeholder-image.jpg",
+        "date":"06/17/2839",
+        "title":"Don’t worry about what people think. They don’t do it very often",
+        "tags":["personalFinance", "all"]
+    },
+    {
+        "image":"images/placeholder-image.jpg",
+        "date":"08/22/2021",
+        "title":"Sarcasm–the ability to insult idiots without them realizing it",
+        "tags":["personalFinance", "all"]
+    },
+    {
+        "image":"images/placeholder-image.jpg",
+        "date":"01/01/2000",
+        "title":"In order to write about life first you must live it",
+        "tags":["investments", "all"]
+    }
+]

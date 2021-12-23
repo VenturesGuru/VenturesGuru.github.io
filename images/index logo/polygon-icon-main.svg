@@ -1,0 +1,10 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 326 326" width="326" height="326">
+
+    <!-- <area target="" alt="" title="" href="" coords="5,247,146,2,4,83" shape="poly">
+    <area target="" alt="" title="" href="" coords="145,323,284,244,6,244" shape="poly">
+    <area target="" alt="" title="" href="" coords="284,85,143,2,283,246" shape="poly"> -->
+
+    <polygon points="4,246 140,4 4,84" fill="#080b36" />
+    <polygon points="140,326 284,246 4,246" fill="#080b36" />
+    <polygon points="284,84 140,4 284,246" fill="#080b36" />
+</svg>
